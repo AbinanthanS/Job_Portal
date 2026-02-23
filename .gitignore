@@ -24,8 +24,3 @@ logs/
 Thumbs.db
 .vscode/
 .idea/
-
-# Optional: if each service has its own uploads/tmp
-tmp/
-temp/
-uploads/
